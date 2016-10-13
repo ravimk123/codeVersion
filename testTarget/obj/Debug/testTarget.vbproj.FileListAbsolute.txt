@@ -1,0 +1,10 @@
+E:\Target\Targetrepository\testTarget\bin\Debug\testTarget.exe
+E:\Target\Targetrepository\testTarget\bin\Debug\testTarget.pdb
+E:\Target\Targetrepository\testTarget\bin\Debug\testTarget.xml
+E:\Target\Targetrepository\testTarget\obj\Debug\ResolveAssemblyReference.cache
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.Form1.resources
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.Resources.resources
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.vbproj.GenerateResource.Cache
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.exe
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.xml
+E:\Target\Targetrepository\testTarget\obj\Debug\testTarget.pdb
